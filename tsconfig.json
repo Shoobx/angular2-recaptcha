@@ -10,5 +10,8 @@
   },
   "angularCompilerOptions": {
     "genDir": "factories"
-  }
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }
