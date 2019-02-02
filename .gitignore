@@ -4,8 +4,9 @@ factories
 
 
 # misc
-*.log
+tsconfig.json
+.npmignore
 .idea
-*.d.ts
-*.js
-*.metadata.json
+*.ts
+!*.d.ts
+factories
