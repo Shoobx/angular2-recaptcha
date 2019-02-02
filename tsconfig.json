@@ -8,9 +8,6 @@
     "declaration": true,
     "lib": ["es6", "dom"]
   },
-  "files": [
-    "index.ts"
-  ],
   "angularCompilerOptions": {
     "genDir": "factories"
   }
